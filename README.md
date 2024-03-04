@@ -1,8 +1,7 @@
-![BB4OS-Original@4x](https://github.com/LibreriadeSatoshi/B4OS/assets/111104979/6f686035-473b-45c0-8d85-b6881ab291f4)
+![BB4OS-Original@4x](https://github.com/b4os/B4OS/assets/111104979/97f3bec6-b28d-4017-820b-a4925dc312c3)
 
 
-![Frase-Italic-White @4x](https://github.com/LibreriadeSatoshi/B4OS/assets/111104979/d4c7eefd-a3c2-48eb-97d7-0267829b8793)
-
+![Frase-Italic-White @4x](https://github.com/b4os/B4OS/assets/111104979/0e2d59b1-fc2e-4d4c-8655-6ae78ba00e07)
 
 
 Bitcoin 4 Open Source es un programa de formación para desarrolladores, visionario y ambicioso, consta de 7 meses de actividades en línea, además de una residencia en persona de 2 semanas en Buenos Aires.
